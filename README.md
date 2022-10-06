@@ -1,5 +1,5 @@
-# Machine_Learning_Projects
-This is a repository stores all learning models related projects(code included)
+# Classfication Machine Learning Models Optimized by GridSearch:¶
+on Fatality Predictions in Utah Avalanches
 
 **Project description** 
 
