@@ -1,4 +1,4 @@
-# Classfication Machine Learning Models Optimized by GridSearch: on Fatality Predictions in Utah Avalanches
+# Classification Machine Learning Models Optimized by GridSearch: on Fatality Predictions in Utah Avalanches
 
 **Project description** 
 
