@@ -15,5 +15,6 @@ Therefore, predicting possible fatalities based on the observed avalanche inform
 In this project, we will construct predictive models of decision trees and support vector machines for forecasting the occurrence of avalanche fatality. Also, we plan to find the optimal ratio of training versus test dataset for model construction and predictive accuracy by comparing algorithms performances. Choosing the best parameters using cross-validation is also one of the project objectives for both models. 
 
 
+
 Ultimately, we will achieve finding the best model with optimal parameters to predict the occurrence of fatality in a given avalanche. 
 
